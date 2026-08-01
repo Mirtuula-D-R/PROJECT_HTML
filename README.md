@@ -28,3 +28,5 @@ It focuses on semantic structure, navigation, and SEO meta tags without any CSS 
 - Practice adding **basic SEO meta tags** for better discoverability.
 
 ---
+## Project URL - https://github.com/Mirtuula-D-R/PROJECT_HTML/blob/main/pagestr.html
+
