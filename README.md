@@ -1,6 +1,6 @@
 # Basic HTML Website
 
-This project is a simple **multi-page HTML-only website** created to practice web development fundamentals.  
+This project is a simple **Multi-page HTML-only website** created to practice web development fundamentals.  
 It focuses on semantic structure, navigation, and SEO meta tags without any CSS styling.
 
 ---
