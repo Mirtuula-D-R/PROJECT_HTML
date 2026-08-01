@@ -28,6 +28,3 @@ It focuses on semantic structure, navigation, and SEO meta tags without any CSS 
 - Practice adding **basic SEO meta tags** for better discoverability.
 
 ---
-
-## 🚀 Next Steps
-The next project will involve **styling this website with CSS** to improve design and user experience.
